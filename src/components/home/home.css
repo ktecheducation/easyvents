@@ -1,0 +1,11 @@
+ol
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+li
+{
+    padding: 10px 40px;
+}
